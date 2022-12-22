@@ -12,8 +12,8 @@
 - My 3D Github Contribution https://skyline.github.com/krishnasingh1/2021
 
 
-
-![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!--- ![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg) --->
 
 
 <!---
