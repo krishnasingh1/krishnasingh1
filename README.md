@@ -9,7 +9,9 @@
 - 📫 How to reach me ...**krishnasingh.ks62@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/krishana-pal-singh-905063199/](https://www.linkedin.com/in/krishana-pal-singh-905063199/)
 - ⚡ Fun fact **Listening made me a better programmer**
-- My 3D Github Contribution https://skyline.github.com/krishnasingh1/2021
+- My 3D Github Contribution
+- 2022 -> https://skyline.github.com/krishnasingh1/2022
+- 2021 -> https://skyline.github.com/krishnasingh1/2021
 
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
