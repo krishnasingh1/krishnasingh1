@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @krishnasingh1
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... **REACTJS** **JAVA,** **Android Native Programming**
+- 🌱 I’m currently learning ... **REACTJS,** **JAVA,** **Android Native Programming**
 - 💬 Ask me about **JAVA, Android**
 - 💞️ I’m looking to collaborate on ...
 - 🤝 I’m looking for help 
